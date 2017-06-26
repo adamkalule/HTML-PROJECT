@@ -1,0 +1,33 @@
+body{
+    margin:0;
+}
+.header{
+    padding: 20px;
+    color:white;
+    background-color: blue;
+    font-family: sans-serif;
+    text-align: center;
+}
+.image{
+    padding: 60px;
+}
+.about{
+    padding: 100px;
+    color: white;
+    background-color: blue;
+    font-family: sans-serif;
+    text-align: center;
+}
+.contact{
+    padding: 70px;
+    text-align: center;
+    background-color: whitesmoke;
+    font-family: sans-serif;
+}
+.footer{
+    padding: 25px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
