@@ -4,17 +4,20 @@ body{
 .header{
     padding: 20px;
     color:white;
-    background-color: blue;
+    background-color: lime;
     font-family: sans-serif;
     text-align: center;
+}
+a:hover{
+    background-color: red;
 }
 .image{
     padding: 60px;
 }
 .about{
     padding: 100px;
-    color: white;
-    background-color: blue;
+    color: red;
+    background-color: lime;
     font-family: sans-serif;
     text-align: center;
 }
@@ -26,8 +29,8 @@ body{
 }
 .footer{
     padding: 25px;
-    background-color: blue;
-    color: white;
+    background-color: lime;
+    color: red;
     text-align: center;
     font-family: sans-serif;
 }
